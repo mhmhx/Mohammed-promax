@@ -1,0 +1,33 @@
+body {
+  background: #121212;
+  color: white;
+  font-family: Tahoma;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+  color: #00adb5;
+}
+.message {
+  background: #1f1f1f;
+  margin-bottom: 15px;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #00adb5aa;
+}
+.send-button {
+  display: block;
+  margin-top: 20px;
+  text-align: center;
+  background: #00adb5;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 8px;
+}
